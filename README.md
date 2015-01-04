@@ -1,7 +1,9 @@
-zprezto-modules
-===============
+prezto-modules
+==============
 
-I share my personals zprezto modules.
+Please visit the github project: https://github.com/sorin-ionescu/prezto
+
+I share my own prezto modules.
 
 To activate the modules please copy the repositories to:
 
@@ -42,3 +44,10 @@ zstyle ':prezto:load' pmodule \
   'symfony2' \
   'laravel'
 ```
+
+Port
+====
+
+I port the Symfony2 module from the oh my zsh one.
+
+Please visit the original oh my zsh plugin: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/symfony2/symfony2.plugin.zsh
